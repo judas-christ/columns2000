@@ -1,7 +1,7 @@
 columns2000
 ===========
 
-An adaptation of CSS3MultiColumn 1.02 beta, copyright (c) 2005 Cdric Savarese <pro@4213miles.com> licensed under the CC-GNU LGPL <http://creativecommons.org/licenses/LGPL/2.1/>.
+An adaptation of [CSS3MultiColumn 1.02 beta](http://www.csscripting.com/css-multi-column/), copyright (c) 2005 Cdric Savarese <pro@4213miles.com> licensed under the CC-GNU LGPL <http://creativecommons.org/licenses/LGPL/2.1/>.
 
 Requires [jQuery 1.5](http://jquery.com) or later, best used with Modernizr.
 
